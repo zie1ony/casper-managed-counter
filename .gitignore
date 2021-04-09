@@ -1,0 +1,3 @@
+managed_counter/target
+tests/target
+tests/wasm/*wasm
